@@ -1,0 +1,159 @@
+a {
+  color: #bb2205;
+  font-family: 'Lato' , sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+a:hover {
+  color: #290001;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-size: 3.75rem;
+  margin: 50px auto;
+  font-family: 'League Script', cursive;
+  color: #fa7f72;
+}
+
+h2 {
+  font-family: 'Inconsolata', monospace;
+  color: #fa7f72;
+}
+
+h3 {
+  font-family: 'Inconsolata', monospace;
+  color: #11999E;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #FFA5A5;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+    font-size: 1.1rem;
+}
+
+.bottom-container {
+  background-color: #FBECEC;
+  padding: 20px 0 20px;
+}
+
+.top-container {
+  background-color: #FBECEC;
+  position: relative;
+  padding: 100px 0;
+}
+
+.cloud-1 {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.cloud-2{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.brain-img {
+  width: 25%;
+  border-radius: 250px;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-message {
+  width: 50%;
+  margin: auto;
+}
+
+.copyright {
+  color: #290001;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.icon-attribution {
+  font-size: 0.5rem;
+}
+
+.icon-links {
+  margin: auto;
+  font-size: 0.5rem;
+}
+
+.intro {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.middle-container {
+  margin: 100px 0 0;
+}
+
+.unicorn-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  clear: right;
+}
+
+.profile-img {
+  width: 150px;
+  border-radius: 100px;
+  padding-top: 2%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.subtitle {
+  font-size: 1.5625rem;
+  font-weight: lighter;
+  color: #fa7f72;
+}
+
+.btn {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #000000;
+   font-family: 'Lato', sans-serif;
+   font-size: 19px;
+   font-weight: 400;
+   padding: 18px;
+   background-color: #FBECEC;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 60px auto;
+}
+
+.btn:hover {
+   background: #FFD5CD;
+   border: solid #000000 1px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
